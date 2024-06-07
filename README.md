@@ -14,27 +14,21 @@
     <td align="center">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/68912054?s=96&v=4" width="100px;" alt="Foto do Shawty"/><br>
-        <sub>
-          <b>Zhawty</b><br>  
-        </sub>
+          <b><a href="https://github.com/zhawty" title="Perfil do GitHub">zhawty</a></b><br> 
       </a>
 Developer
     </td>
     <td align="center">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/42743208?s=96&v=4" width="100px;" alt="Foto do Luska"/><br>
-        <sub>
-          <b>luska1337</b><br> 
-        </sub>
+          <b><a href="https://github.com/luska1337" title="Perfil do GitHub">luska1337</a></b><br> 
       </a>
 Developer
     </td>
     <td align="center">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/79928127?s=96&v=4" width="100px;" alt="Foto do Sarrada"/><br>
-        <sub>
-          <b>snowzitcho</b><br> 
-        </sub>
+          <b><a href="https://github.com/snowzitcho" title="Perfil do GitHub">snowzitcho</a></b><br> 
       </a>
 Developer
     </td>
